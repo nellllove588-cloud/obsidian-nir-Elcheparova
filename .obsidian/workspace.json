@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Literature/Конспект статьи.md",
+                "file": "00_Inbox/Первая мысль.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Конспект статьи"
+              "title": "Первая мысль"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Literature/Конспект статьи.md",
+                "file": "00_Inbox/Первая мысль.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,13 +190,13 @@
   },
   "active": "f1c67c2e990028d1",
   "lastOpenFiles": [
-    "_Templates/Шаблон заметки.md",
     "05_Output/План (содержание) ВКР.md",
-    "README.md",
     "02_Notes/Теоретическая рамка.md",
     "02_Notes/Методология.md",
     "02_Notes/Исследовательский вопрос.md",
     "01_Literature/Конспект статьи.md",
+    "_Templates/Шаблон заметки.md",
+    "README.md",
     "_Attachments/Вложения.md",
     "00_Inbox/Первая мысль.md",
     "04_Drafts/Черновик введения.md",
