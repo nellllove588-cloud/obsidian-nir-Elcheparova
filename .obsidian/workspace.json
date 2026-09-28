@@ -11,14 +11,12 @@
             "id": "f1c67c2e990028d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00_Inbox/Первая мысль.md",
-                "mode": "source",
-                "source": false
+                "file": "_Attachments/2021-CasadoPalmaPaolieri.ThescopeofgrammaticalgenderinSpanish-transferencetotheconceptuallevel.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Первая мысль"
+              "icon": "lucide-file-text",
+              "title": "2021-CasadoPalmaPaolieri.ThescopeofgrammaticalgenderinSpanish-transferencetotheconceptuallevel"
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Inbox/Первая мысль.md",
+                "file": "_Attachments/2021-CasadoPalmaPaolieri.ThescopeofgrammaticalgenderinSpanish-transferencetotheconceptuallevel.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +186,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c67c2e990028d1",
+  "active": "40e8712ef5337044",
   "lastOpenFiles": [
-    "05_Output/План (содержание) ВКР.md",
-    "02_Notes/Теоретическая рамка.md",
-    "02_Notes/Методология.md",
     "02_Notes/Исследовательский вопрос.md",
+    "02_Notes/Методология.md",
+    "02_Notes/Теоретическая рамка.md",
+    "00_Inbox/Первая мысль.md",
+    "05_Output/План (содержание) ВКР.md",
     "01_Literature/Конспект статьи.md",
     "_Templates/Шаблон заметки.md",
     "README.md",
     "_Attachments/Вложения.md",
-    "00_Inbox/Первая мысль.md",
     "04_Drafts/Черновик введения.md",
     "03_Projects/Магистерская диссертация.md",
     "_Attachments/2021-CasadoPalmaPaolieri.ThescopeofgrammaticalgenderinSpanish-transferencetotheconceptuallevel.pdf",
