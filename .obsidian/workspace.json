@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Notes/Исследовательский вопрос.md",
+                "file": "02_Notes/Методология.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Исследовательский вопрос"
+              "title": "Методология"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Notes/Исследовательский вопрос.md",
+                "file": "02_Notes/Методология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,13 +190,13 @@
   },
   "active": "f1c67c2e990028d1",
   "lastOpenFiles": [
+    "02_Notes/Исследовательский вопрос.md",
+    "02_Notes/Методология.md",
     "02_Notes/Теоретическая рамка.md",
     "03_Projects/Магистерская диссертация.md",
     "04_Drafts/Черновик введения.md",
     "05_Output/План (содержание) ВКР.md",
     "README.md",
-    "02_Notes/Исследовательский вопрос.md",
-    "02_Notes/Методология.md",
     "_Templates/Шаблон заметки.md",
     "00_Inbox/Первая мысль.md",
     "01_Literature/Конспект статьи.md",
