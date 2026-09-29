@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Notes/Методология.md",
+                "file": "02_Notes/Теоретическая рамка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Методология"
+              "title": "Теоретическая рамка"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Notes/Методология.md",
+                "file": "02_Notes/Теоретическая рамка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,18 +190,18 @@
   },
   "active": "f1c67c2e990028d1",
   "lastOpenFiles": [
-    "02_Notes/Исследовательский вопрос.md",
-    "02_Notes/Методология.md",
-    "02_Notes/Теоретическая рамка.md",
     "03_Projects/Магистерская диссертация.md",
-    "04_Drafts/Черновик введения.md",
-    "05_Output/План (содержание) ВКР.md",
-    "README.md",
+    "02_Notes/Методология.md",
+    "02_Notes/Исследовательский вопрос.md",
     "_Templates/Шаблон заметки.md",
+    "_Attachments/Вложения.md",
+    "_Attachments/2021-CasadoPalmaPaolieri.ThescopeofgrammaticalgenderinSpanish-transferencetotheconceptuallevel.pdf",
+    "README.md",
+    "05_Output/План (содержание) ВКР.md",
+    "04_Drafts/Черновик введения.md",
     "00_Inbox/Первая мысль.md",
     "01_Literature/Конспект статьи.md",
-    "_Attachments/2021-CasadoPalmaPaolieri.ThescopeofgrammaticalgenderinSpanish-transferencetotheconceptuallevel.pdf",
-    "_Attachments/Вложения.md",
+    "02_Notes/Теоретическая рамка.md",
     "interpretation-of-feminization-processes-in-the-modern-spanish-vocabulary.pdf",
     "Untitled",
     "_Attachments",
