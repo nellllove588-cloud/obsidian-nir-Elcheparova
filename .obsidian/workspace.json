@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Notes/Асимметрия в языке.md",
+                "file": "_Templates/Шаблон заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Асимметрия в языке"
+              "title": "Шаблон заметки"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Notes/Асимметрия в языке.md",
+                "file": "_Templates/Шаблон заметки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,15 +188,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40e8712ef5337044",
+  "active": "f1c67c2e990028d1",
   "lastOpenFiles": [
-    "02_Notes/Гендерная лингвистика.md",
-    "02_Notes/Исследовательский вопрос.md",
+    "00_Inbox/Первая мысль.md",
     "02_Notes/Асимметрия в языке.md",
+    "02_Notes/Исследовательский вопрос.md",
+    "02_Notes/Гендерная лингвистика.md",
     "02_Notes/Теоретическая рамка.md",
     "02_Notes/Методология.md",
     "01_Literature/Конспект статьи.md",
-    "00_Inbox/Первая мысль.md",
     "03_Projects/Магистерская диссертация.md",
     "_Templates/Шаблон заметки.md",
     "_Attachments/Вложения.md",
